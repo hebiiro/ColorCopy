@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorCopy", "ColorCopy\ColorCopy.vcxproj", "{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA71048F-8061-4D8A-97AB-C76FE7EB8C69}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Debug|x64.ActiveCfg = Debug|x64
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Debug|x64.Build.0 = Debug|x64
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Debug|x86.ActiveCfg = Debug|Win32
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Debug|x86.Build.0 = Debug|Win32
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Release|x64.ActiveCfg = Release|x64
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Release|x64.Build.0 = Release|x64
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Release|x86.ActiveCfg = Release|Win32
+		{61E9DD81-1E4E-44E4-A39D-2329B2DF8419}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96A71BC-7BDE-4A4A-999B-1C567DCFCB0B}
+	EndGlobalSection
+EndGlobal
